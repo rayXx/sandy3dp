@@ -1,4 +1,6 @@
-Developer Notes
+
+
+asfafDeveloper Notes
 ===================
 
 - There are now 3 branches: The __development__ branch is where new features and code changes will be sorted out. This branch may have untested code in it, so please let us know if you find any bugs. When the __development__ branch has reached a state where it is stable, it will be moved to the __stable__ branch and in the end it will land in the __main__ branch.
